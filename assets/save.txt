@@ -1,0 +1,19 @@
+40 medium 0 2 Font3 english 21.2705
+screen 969 200
+flamingo 993 300
+frame 957 400
+ocean 1036 500
+violin 675 200
+bobcat 531 400
+magpie 624 600
+mosquito 615 700
+penguin 217 200
+stork 295 300
+clock 142 400
+painter 230 600
+painter 142 700
+flower -151 200
+crane -121 300
+grasshopper -176 500
+wallet -239 600
+sun -110 700
